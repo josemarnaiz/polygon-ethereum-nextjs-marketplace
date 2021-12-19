@@ -11,13 +11,13 @@ module.exports = {
     },
     mumbai: {
       // Infura
-      url: `https://polygon-mumbai.infura.io/v3/${infuraId}`
+      url: `https://polygon-mumbai.infura.io/v3/3a1fdc7dc1a64a9cb1fcefc0740bcccb`,
       //url: "https://rpc-mumbai.matic.today",
       accounts: [privateKey]
     },
     matic: {
       // Infura
-      url: `https://polygon-mainnet.infura.io/v3/${infuraId}`,
+      url: `https://polygon-mainnet.infura.io/v3/3a1fdc7dc1a64a9cb1fcefc0740bcccb`,
       //url: "https://rpc-mainnet.maticvigil.com",
       accounts: [privateKey]
     }
